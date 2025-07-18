@@ -27,7 +27,7 @@ I’m a passionate **Embedded Software Engineer** with hands-on experience in **
 | **Smart Home**       | NETx BMS, Schneider HRC, Salto Lock, Lua scripting                                   |
 | **OS & Tools**       | Linux, STM32CubeIDE, VSCode, Git, Keil, WinForms (Maintenance), Agile, V-Model       |
 | **Mechanical Design**| AutoCAD, SolidWorks (basic)                                                           |
-| **Languages**        | English – TOEIC 740|300                                            |
+| **Languages**        | English – TOEIC 740+300                                            |
 
 ---
 
