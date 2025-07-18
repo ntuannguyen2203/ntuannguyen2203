@@ -38,8 +38,8 @@ I’m a passionate **Embedded Software Engineer** with hands-on experience in **
 - 🔐 Developed **ESP-IDF Secure Bootloader**  
 - 🏨 Programmed **Schneider HRC (Hotel Room Controller)** via Structured Text  
 - 💡 Developed **Linux Smart Home Applications** and integrated with **Schneider BMS**  
-- 🔗 Created **Salto Lock bridge server**  
-- 🔧 Maintained legacy **WinForms** systems (>10 years)  
+- 🔗 Developed **Salto Lock bridge TCP server**  by Python
+- 🔧 Maintained legacy **WinForms** systems and development new feature (>10 years)  
 - 📜 Programmed NETx BMS using **Lua scripting**
 
 ---
