@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello, I'm Nguyen Tuan Nguyen</h1>
 <p align="center">
-  🔧 Embedded & IoT Software Engineer • 🎓 Mechatronics @ HCMUTE <br>
+  🔧 IoT/Embedded Software Engineer • 🎓 Master's in Computer Science (In Progress) <br>
   📍 Ho Chi Minh City, Vietnam &nbsp;|&nbsp; 📧 ntuannguyen2203@gmail.com &nbsp;|&nbsp; 📞 +84 356 771 275
 </p>
 
@@ -8,11 +8,13 @@
 
 ## 🧑‍💻 About Me
 
-I’m a passionate **Embedded Software Engineer** with hands-on experience in **IoT systems**, **Smart Home applications**, and **embedded programming** on platforms like STM32, ESP-IDF, and Linux.
+I am a passionate **Embedded Software Engineer** with a background in Mechatronics from HCMC University of Technology and Education, graduating with a strong academic record (GPA 8.28/10). Through my internships and full-time positions at **FPT Software**, **Bosch Global Software Technologies**, and currently at **VIS Solutions**, I have gained hands-on experience in developing **IoT systems**, **Smart Home applications**, and **embedded system programming** using platforms such as ESP-IDF, Linux, STM32, and NXP S32K144.
 
-🔹 **Background:** Mechatronics @ HCMC University of Technology and Education (GPA: 8.28/10)  
-🔹 **Work style:** Practical, detail-oriented, Agile mindset  
-🔹 **Goal:** Become a **Senior Embedded Engineer** contributing to innovative and sustainable embedded systems
+🔹 **Background:** Mechatronics Engineering @ HCMUTE (GPA: 8.28/10)  
+🔹 **Current:** Pursuing Master's in Computer Science @ HCMUTE (Sep 2025 - Present)  
+🔹 **Work style:** Agile methodologies, V-Model, detail-oriented  
+🔹 **Short-term goal:** Successfully complete assigned tasks and continuously enhance technical knowledge  
+🔹 **Long-term goal:** Become a **Senior Embedded Engineer** contributing to innovative and sustainable technology solutions
 
 ---
 
@@ -20,42 +22,70 @@ I’m a passionate **Embedded Software Engineer** with hands-on experience in **
 
 | Category             | Technologies / Tools                                                                 |
 |----------------------|---------------------------------------------------------------------------------------|
-| **Languages**        | C, C++, Python, Lua, Structured Text                                                  |
-| **MCU Platforms**    | STM32, NXP S32K144, ESP8266/ESP32 (ESP-IDF), Raspberry Pi                            |
-| **Protocols**        | CAN, UART, SPI, I2C, MQTT                                                             |
+| **Languages**        | C, C++, Python, C# .NET, JavaScript, Lua, Structured Text                            |
+| **MCU Platforms**    | STM32, NXP S32K144, ESP8266/ESP32 (ESP-IDF), PIC C, Raspberry Pi                    |
+| **Protocols**        | CAN, UART, SPI, I2C, MQTT, TCP/IP, DMX512                                           |
 | **Cloud / DB**       | Firebase, MariaDB, MySQL                                                              |
-| **Smart Home**       | NETx BMS, Schneider HRC, Salto Lock, Lua scripting                                   |
-| **OS & Tools**       | Linux, STM32CubeIDE, VSCode, Git, Keil, WinForms (Maintenance), Agile, V-Model       |
+| **Smart Home/BMS**   | Schneider HRC, Schneider BMS (Graphic/Rent/MUR), NETx BMS, Salto Lock, Mitsubishi HVAC |
+| **OS & Tools**       | Linux, Docker, STM32CubeIDE, VSCode, Git, Keil, WinForms, Agile, V-Model            |
+| **Radar/Sensors**    | Texas Instruments Radar, Localization Algorithms, Ranging Data Sensors               |
 | **Mechanical Design**| AutoCAD, SolidWorks (basic)                                                           |
-| **Languages**        | English – TOEIC 740+300                                            |
+| **Languages**        | English – TOEIC 740+300                                                               |
 
 ---
 
-## 💼 Experience
+## 💼 Professional Experience
 
 ### 🧠 **Research & Development Engineer – VIS Solutions**  
-📅 *Dec 2024 – Present* | 📍 District 7, Ho Chi Minh City  
-- 🔐 Developed **ESP-IDF Secure Bootloader**  
-- 🏨 Programmed **Schneider HRC (Hotel Room Controller)** via Structured Text  
-- 💡 Developed **Linux Smart Home Applications** and integrated with **Schneider BMS**  
-- 🔗 Developed **Salto Lock bridge TCP server**  by Python
-- 🔧 Maintained legacy **WinForms** systems and development new feature (>10 years)  
-- 📜 Programmed NETx BMS using **Lua scripting**
+📅 *Dec 2024 – Present (1 year)* | 📍 District 7, Ho Chi Minh City, Vietnam
+
+**Projects & Responsibilities:**
+- 🔌 **[C] PIC C RCU development** – Developed Room Control Unit firmware
+- 🔐 **[C] ESP-IDF Security Bootloader** – Implemented secure boot mechanisms
+- 💡 **[C] DMX512 Integration** – Expanded 4-channel to 6-channel application with new features
+- 🏨 **[Structured Text] Schneider HRC** – Programmed Hotel Room Controller systems
+- 🖥️ **[C# .NET 3.8] Legacy Maintenance** – Maintained and enhanced 10-year-old WinForms project
+- 🐳 **[Docker/JS] Linux Smart Home** – Developed Linux-based smart home applications
+- 🏢 **Schneider BMS Integration** – Integrated Graphic/Rent/MUR platform modules
+- 🌡️ **HVAC Synchronization** – Developed scripts to sync RCU with Mitsubishi HVAC in Schneider Workstation Building Operation
+- 🔗 **[Python] Salto Lock Bridge** – Built TCP server for multi-RCU client to Salto Client communication
+- 📜 **[Lua] NETx BMS Programming** – Implemented BMS automation scripts
 
 ---
 
-### 🔧 **Embedded Software Engineer – Bosch Global Software**  
-📅 *Apr – Sep 2024*  
-- Deployed **TI Radar** demo and localization algorithm  
-- Collaborated with India team on field testing  
-- Built internal tools & maintained hardware demo
+### 🔧 **Embedded Software Engineer – Bosch Global Software Technologies Vietnam**  
+📅 *Apr 2024 – Sep 2024 (6 months)* | 📍 Tân Bình, Ho Chi Minh City, Vietnam
+
+**Key Contributions:**
+- 📡 Investigated and launched **Texas Instruments Radar** demo
+- 🎯 Analyzed and developed **localization algorithms** with ranging data sensors
+- 🌏 Collaborated with India team to deploy solutions in India environment devices
+- 🔧 Hands-on development of **internal tools**
+- 🖥️ Maintained **hardware demo systems**
 
 ---
 
 ### 🔧 **Embedded Software Engineer – FPT Software**  
-📅 *Oct – Dec 2023*  
-- Trained on **NXP S32K144**, configured **GPIO, Timers, CAN**  
-- Built **CAN communication system** to sync potentiometer values → control LED brightness
+📅 *Oct 2023 – Dec 2023 (3 months)* | 📍 Saigon Hi-tech Park
+
+**Training & Development:**
+- 📚 Participated in mentor-led training on **NXP microcontrollers (S32K144)**
+- ⚙️ Hands-on programming: **GPIO, Timer, Clock configuration, CAN communication**
+- 🚦 **Featured Project:** Programmed CAN communication between two NXP S32K144 boards to exchange potentiometer values for LED brightness control
+
+---
+
+## 🎓 Education
+
+### 🎓 **Master's Degree in Computer Science**
+**HCMC University of Technology and Education**  
+📅 *September 2025 – Present*  
+🎯 Currently Pursuing
+
+### 🎓 **Bachelor's Degree in Mechatronics Engineering**
+**HCMC University of Technology and Education**  
+📅 *August 2020 – 2024*  
+🏆 **GPA: 8.28/10**
 
 ---
 
@@ -82,8 +112,8 @@ I’m a passionate **Embedded Software Engineer** with hands-on experience in **
 
 ## 🏆 Achievements
 
-- 🥇 1st Place – Mechatronics Class, High-Quality Training Program (2021)  
-- 🎓 HCMUTE Encouraging Study Scholarship (2021, 2023, 2024)
+- 🥇 **1st Place** – Mechatronics Class, High-Quality Training Program (2021)  
+- 🎓 **HCMUTE Encouraging Study Scholarship** (2021, 2023, 2024)
 
 ---
 
@@ -98,6 +128,12 @@ I’m a passionate **Embedded Software Engineer** with hands-on experience in **
 
 ## 📬 Connect With Me
 
-- 📧 Email: [ntuannguyen2203@gmail.com](mailto:ntuannguyen2203@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/nguyen-tuan-nguyen-173601219](https://www.linkedin.com/in/nguyen-tuan-nguyen-173601219)  
-- 💼 Open to IoT/Embedded Projects & Collaborations
+- 📧 **Email:** [ntuannguyen2203@gmail.com](mailto:ntuannguyen2203@gmail.com)  
+- 🔗 **LinkedIn:** [linkedin.com/in/nguyen-tuan-nguyen-173601219](https://www.linkedin.com/in/nguyen-tuan-nguyen-173601219)  
+- 💼 **Open to:** IoT/Embedded Projects & Collaborations
+
+---
+
+<p align="center">
+  <i>"Aspiring to become a Senior Embedded Engineer, contributing to innovative and sustainable technology solutions"</i>
+</p>
