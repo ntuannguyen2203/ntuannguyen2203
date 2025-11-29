@@ -1,13 +1,13 @@
 # Nguyen Tuan Nguyen
 
-**IoT/Embedded Software Engineer** · **Master's in Computer Science (In Progress)**  
+**IoT/Embedded Software Engineer**  
 Ho Chi Minh City, Vietnam · ntuannguyen2203@gmail.com · +84 356 771 275  
 
 ---
 
 ## Professional Summary
 
-Passionate **Embedded Software Engineer** with Mechatronics Engineering background from HCMC University of Technology and Education (GPA: 8.28/10). Experienced in IoT systems, Smart Home applications, and embedded programming across ESP-IDF, Linux, STM32, and NXP S32K144 platforms through roles at FPT Software, Bosch Global Software Technologies, and VIS Solutions.  
+Passionate **Embedded Software Engineer** with Mechatronics Engineering background from HCMC University of Technology and Education (GPA: 8.28/10). Experienced in IoT systems, Smart Home applications, and embedded programming across ESP-IDF, Linux, STM32, and NXP S32K144 platforms through roles at FPT Software, Bosch Global Software Technologies, and VIS Solutions.
 
 **Objective:** Senior Embedded Engineer delivering innovative technology solutions.
 
@@ -24,31 +24,44 @@ Passionate **Embedded Software Engineer** with Mechatronics Engineering backgrou
 - **Radar & Sensors:** Texas Instruments Radar, Localization Algorithms, Ranging Sensors  
 - **Methodologies:** Agile, V-Model  
 - **Design Tools:** AutoCAD, SolidWorks (Basic)  
-- **Languages:** English (TOEIC 740+300)  
+
+---
+
+## Certificates
+
+- **TOEIC (IIG Vietnam):** 740 (Reading & Listening) + 300 (Speaking & Writing), 2025  
 
 ---
 
 ## Professional Experience
 
-### Research & Development Engineer – VIS Solutions  
+### Research & Development Engineer (Full-time) – VIS Solutions  
 *Dec 2024 – Present · District 7, Ho Chi Minh City, Vietnam*
 
-**Projects & Responsibilities:**
+Embedded firmware and smart-building development for hotel projects.
 
-- **PIC C RCU Development:** Developed Room Control Unit firmware for hotel applications.  
-- **ESP-IDF Security Bootloader:** Implemented secure boot mechanisms for ESP32 devices.  
-- **DMX512 Integration:** Expanded 4-channel to 6-channel lighting control with new features.  
-- **Schneider HRC:** Programmed Hotel Room Controller systems using Structured Text.  
-- **C#.NET Legacy Maintenance:** Maintained and enhanced 10-year-old WinForms applications.  
-- **Docker/JS Linux Smart Home:** Developed Linux-based smart home applications with containerization.  
-- **Schneider BMS Integration:** Integrated Graphic/Rent/MUR platform modules.  
-- **HVAC Synchronization:** Developed RCU–Mitsubishi HVAC sync scripts for Schneider Building Operation.  
-- **Python Salto Lock Bridge:** Built TCP server for multi-RCU to Salto Client communication.  
-- **Lua NETx BMS Programming:** Implemented BMS automation scripts.  
+**C/C++ Embedded**
+
+- **PIC32MZ C RCU Development:** Room Control Unit firmware for hotel rooms (lighting/curtain via UART, GPIO, relays), tuned for stable 24/7 operation.  
+- **ESP-IDF Security Bootloader:** Secure bootloader for ESP32 with signed firmware, key provisioning and safe OTA/offline updates.  
+- **STM8 DMX512 Integration:** DMX512 decoder from 4→6 channels with configurable dimming frequency and offline test modes.  
+
+**Application**
+
+- **C#.NET Legacy Maintenance:** Maintained and improved a 10+ year WinForms tool, fixing bugs and enhancing UI while keeping compatibility.  
+- **Docker/JS Linux Smart Home:** Used existing Docker images to prototype a Debian-based Linux gateway for Smart Home services.  
+- **Python Salto Lock Bridge:** Python TCP bridge between multiple RCUs and Salto lock client with lightweight protocol and logging.  
+
+**Building Management System**
+
+- **Schneider HRC Programming:** Room logic (lighting, HVAC, occupancy) in Structured Text on Schneider HRC.  
+- **Schneider BMS Integration:** Integrated RCUs into Schneider Graphic/Rent/MUR, mapping points and alarms.  
+- **HVAC Synchronization:** Scripts to sync RCUs with Mitsubishi BACnet HVAC in Schneider Building Operation.  
+- **Lua NETx BMS Programming:** Lua automation for schedules and scenes in NETx BMS.  
 
 ---
 
-### Embedded Software Engineer – Bosch Global Software Technologies Vietnam  
+### Embedded Software Engineer (Internship) – Bosch Global Software Technologies Vietnam  
 *Apr 2024 – Sep 2024 · Tan Binh, Ho Chi Minh City*
 
 - Deployed Texas Instruments Radar demonstration systems for automotive applications.  
@@ -58,7 +71,7 @@ Passionate **Embedded Software Engineer** with Mechatronics Engineering backgrou
 
 ---
 
-### Embedded Software Engineer – FPT Software  
+### Embedded Software Engineer (Internship) – FPT Software  
 *Oct 2023 – Dec 2023 · Saigon Hi-tech Park*
 
 - Completed NXP S32K144 microcontroller training: GPIO, Timer, Clock, CAN communication.  
