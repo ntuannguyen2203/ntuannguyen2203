@@ -8,13 +8,13 @@
 
 ## 🧑‍💻 About Me
 
-I am a passionate **Embedded Software Engineer** with a background in Mechatronics from HCMC University of Technology and Education, graduating with a strong academic record (GPA 8.28/10). Through my internships and full-time positions at **FPT Software**, **Bosch Global Software Technologies**, and currently at **VIS Solutions**, I have gained hands-on experience in developing **IoT systems**, **Smart Home applications**, and **embedded system programming** using platforms such as ESP-IDF, Linux, STM32, and NXP S32K144.
+Passionate **Embedded Software Engineer** with a Mechatronics Engineering background from HCMC University of Technology and Education (GPA: 8.28/10). Experienced in IoT systems, Smart Home applications, and embedded programming across ESP-IDF, Linux, STM32, and NXP S32K144 platforms through roles at **FPT Software**, **Bosch Global Software Technologies**, and **VIS Solutions**.
 
-🔹 **Background:** Mechatronics Engineering @ HCMUTE (GPA: 8.28/10)  
-🔹 **Current:** Pursuing Master's in Computer Science @ HCMUTE (Sep 2025 - Present)  
-🔹 **Work style:** Agile methodologies, V-Model, detail-oriented  
-🔹 **Short-term goal:** Successfully complete assigned tasks and continuously enhance technical knowledge  
-🔹 **Long-term goal:** Become a **Senior Embedded Engineer** contributing to innovative and sustainable technology solutions
+🔹 **Education:** Mechatronics Engineering @ HCMUTE (GPA: 8.28/10)  
+🔹 **Current:** Master's in Computer Science @ HCMUTE (Sep 2025 - Present)  
+🔹 **Methodologies:** Agile, V-Model, detail-oriented development  
+🔹 **Short-term:** Deliver high-quality solutions and advance technical expertise  
+🔹 **Long-term:** Achieve **Senior Embedded Engineer** status, driving innovative technology solutions
 
 ---
 
@@ -39,17 +39,9 @@ I am a passionate **Embedded Software Engineer** with a background in Mechatroni
 ### 🧠 **Research & Development Engineer – VIS Solutions**  
 📅 *Dec 2024 – Present (1 year)* | 📍 District 7, Ho Chi Minh City, Vietnam
 
-**Projects & Responsibilities:**
-- 🔌 **[C] PIC C RCU development** – Developed Room Control Unit firmware
-- 🔐 **[C] ESP-IDF Security Bootloader** – Implemented secure boot mechanisms
-- 💡 **[C] DMX512 Integration** – Expanded 4-channel to 6-channel application with new features
-- 🏨 **[Structured Text] Schneider HRC** – Programmed Hotel Room Controller systems
-- 🖥️ **[C# .NET 3.8] Legacy Maintenance** – Maintained and enhanced 10-year-old WinForms project
-- 🐳 **[Docker/JS] Linux Smart Home** – Developed Linux-based smart home applications
-- 🏢 **Schneider BMS Integration** – Integrated Graphic/Rent/MUR platform modules
-- 🌡️ **HVAC Synchronization** – Developed scripts to sync RCU with Mitsubishi HVAC in Schneider Workstation Building Operation
-- 🔗 **[Python] Salto Lock Bridge** – Built TCP server for multi-RCU client to Salto Client communication
-- 📜 **[Lua] NETx BMS Programming** – Implemented BMS automation scripts
+- Developed RCU firmware for PIC and ESP-IDF platforms, implemented secure boot mechanisms, expanded DMX512 capabilities, and integrated with Linux-based Smart Home systems. [attached_file:1]
+- Programmed and integrated BMS/Smart Building solutions (Schneider HRC, Schneider BMS, NETx BMS, Salto Lock, Mitsubishi HVAC); built multi-RCU TCP communication bridge. [attached_file:1]
+- Maintained and enhanced legacy C# .NET WinForms applications (10+ years) and implemented Docker containerization for Smart Home deployments. [attached_file:1]
 
 ---
 
@@ -57,11 +49,10 @@ I am a passionate **Embedded Software Engineer** with a background in Mechatroni
 📅 *Apr 2024 – Sep 2024 (6 months)* | 📍 Tân Bình, Ho Chi Minh City, Vietnam
 
 **Key Contributions:**
-- 📡 Investigated and launched **Texas Instruments Radar** demo
-- 🎯 Analyzed and developed **localization algorithms** with ranging data sensors
-- 🌏 Collaborated with India team to deploy solutions in India environment devices
-- 🔧 Hands-on development of **internal tools**
-- 🖥️ Maintained **hardware demo systems**
+- Investigated and deployed **Texas Instruments Radar** demonstration systems
+- Developed **localization algorithms** utilizing ranging data sensors
+- Collaborated with India team for solution deployment in regional environments
+- Created internal development tools and maintained hardware demo systems
 
 ---
 
@@ -69,9 +60,9 @@ I am a passionate **Embedded Software Engineer** with a background in Mechatroni
 📅 *Oct 2023 – Dec 2023 (3 months)* | 📍 Saigon Hi-tech Park
 
 **Training & Development:**
-- 📚 Participated in mentor-led training on **NXP microcontrollers (S32K144)**
-- ⚙️ Hands-on programming: **GPIO, Timer, Clock configuration, CAN communication**
-- 🚦 **Featured Project:** Programmed CAN communication between two NXP S32K144 boards to exchange potentiometer values for LED brightness control
+- Completed mentor-led training on **NXP S32K144 microcontrollers**
+- Implemented **GPIO, Timer, Clock configuration, and CAN communication**
+- **Featured Project:** Established CAN communication between dual NXP S32K144 boards for potentiometer-to-LED brightness control
 
 ---
 
@@ -91,22 +82,32 @@ I am a passionate **Embedded Software Engineer** with a background in Mechatroni
 
 ## 🚀 Projects
 
-### 🧠 **Capstone Mechatronics Project**
-*STM32 + Raspberry Pi + SQL + LCD UI + PCB*
-- Led a 3-member team to build a monitoring system  
-- STM32 handles keypad & display interface  
-- Raspberry Pi with camera + SQL for data logging  
-- Designed and implemented custom PCB
+### 🏨 **Smart Hotel RCU & BMS Integration – VIS Solutions**  
+*PIC C, ESP-IDF, Structured Text, Schneider HRC/BMS, Mitsubishi HVAC*  
+- Developed Room Control Unit (RCU) firmware for hotel applications with expanded 6-channel DMX512 lighting control and advanced features. [attached_file:1]
+- Integrated RCU with Schneider HRC, BMS (Graphic/Rent/MUR) platforms, and Mitsubishi HVAC systems for synchronized Building Operation control. [attached_file:1]
 
-### 🚦 **Traffic Light IoT System**
-*Raspberry Pi + MariaDB + MQTT*
-- Controlled system via MQTT  
-- Synced with Linux server, queried real-time DB
+### 🏠 **Linux-based Smart Home Platform – VIS Solutions**  
+*Linux, Docker, C# .NET, JavaScript*  
+- Built Linux-native Smart Home applications containerized with Docker for scalable deployment and maintenance. [attached_file:1]
+- Modernized 10+ year legacy C# .NET WinForms project, enhancing stability and system integration capabilities. [attached_file:1]
 
-### 🌫️ **Auto Misting IoT System**
-*ESP8266 + Firebase*
-- Read cloud thresholds & control misting system  
-- Uploaded temp/humidity to Firebase Realtime DB
+### 🔐 **Secure Boot & Access Control Bridge – VIS Solutions**  
+*ESP-IDF, Python, Lua, Salto Lock, NETx BMS*  
+- Designed and implemented secure bootloader for ESP-IDF devices to enhance firmware security and update processes. [attached_file:1]
+- Developed multi-RCU TCP server bridge to Salto Client systems and automated NETx BMS control scripts using Lua. [attached_file:1]
+
+### 🧠 **Capstone Mechatronics Project**  
+*STM32 + Raspberry Pi + SQL + LCD UI + PCB*  
+- Led 3-member team to develop monitoring system: STM32 for keypad/LCD interface, Raspberry Pi for camera data logging to SQL database, custom PCB design. [attached_file:1]
+
+### 🚦 **Traffic Light IoT System**  
+*Raspberry Pi + MariaDB + MQTT*  
+- Implemented MQTT-controlled traffic light system synchronized with Linux server and real-time MariaDB database queries. [attached_file:1]
+
+### 🌫️ **Auto Misting IoT System**  
+*ESP8266 + Firebase*  
+- Developed cloud-controlled misting system reading Firebase thresholds, controlling actuators, and logging environmental data. [attached_file:1]
 
 ---
 
@@ -135,5 +136,5 @@ I am a passionate **Embedded Software Engineer** with a background in Mechatroni
 ---
 
 <p align="center">
-  <i>"Aspiring to become a Senior Embedded Engineer, contributing to innovative and sustainable technology solutions"</i>
+  <i>"Aspiring Senior Embedded Engineer delivering innovative, sustainable technology solutions"</i>
 </p>
